@@ -25,3 +25,7 @@ MATCH (n)-[r]-(b) Where n.name='便秘' RETURN n,r,b
 ```
 
 对$n.name$进行修改可以查询与需要节点相关的节点
+
+查询“便秘”症状节点的KG示例：
+
+![image](示例图.png)
