@@ -1,0 +1,43 @@
+喜热饮	胃中虚火证	证候
+病在肛门外肿突而硬	初发期	证候
+腹痛	心经积热证	证候
+水红花子	SMIT13500	symmap_chemical
+槲寄生	SMIT01519	symmap_chemical
+SMIT16807	Liver Tender	chemical_MM
+当归	SMIT05129	symmap_chemical
+SMIT10590	Cough Nonproductive	chemical_MM
+高热烦渴	热毒炽盛证	证候
+SMIT05979	Sharp Headache	chemical_MM
+艾叶	SMIT05580	symmap_chemical
+檀香	SMIT15645	symmap_chemical
+花椒	SMIT00086	symmap_chemical
+拒按	气滞血瘀证	证候
+辣椒	SMIT05174	symmap_chemical
+SMIT11035	Abdomen Discomfort	chemical_MM
+SMIT12696	Common Cold	chemical_MM
+肠道热盛	肠道实热证	证候
+反应迟钝	寒盛阳衰证	证候
+疲乏	血瘀	证候
+干姜	SMIT00507	symmap_chemical
+骨碎补	SMIT10266	symmap_chemical
+苔薄黄	阴虚火炎证	证候
+阳痿	仙茅	中药
+马兜铃	SMIT13155	symmap_chemical
+SMIT11873	Bronchial Asthma	chemical_MM
+瞿麦	SMIT02387	symmap_chemical
+榧子	平	药性
+SMIT10923	Deafness	chemical_MM
+SMIT08396	Headache Throbbing	chemical_MM
+SMIT12511	Long Sleeper Syndrome	chemical_MM
+冬瓜皮	SMIT15121	symmap_chemical
+处生疮疖疔痈	火毒流窜证	证候
+半枝莲	SMIT13037	symmap_chemical
+橘红	SMIT19275	symmap_chemical
+SMIT18017	Impetigo	chemical_MM
+鼻燥咽干	血虚津亏证	证候
+干姜	SMIT00399	symmap_chemical
+槐角	SMIT00738	symmap_chemical
+咳嗽痰稠	硼砂	中药
+断血流	SMIT16917	symmap_chemical
+阴不制阳	阴虚阳浮证	证候
+SMIT05363	Polyarthralgia	chemical_MM
